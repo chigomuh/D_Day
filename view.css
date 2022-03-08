@@ -1,0 +1,19 @@
+body {
+  background-image: url("bg2.gif");
+  image-rendering: -webkit-optimize-contrast;
+  transform: translateZ(0);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vh;
+}
+h1 {
+  font-size: 5vw;
+  color: #f38181;
+}
+#day {
+  color: #fce38a;
+}
+
+#target {
+  color: #eaffd0;
+}
