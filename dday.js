@@ -31,4 +31,5 @@ function reroad() {
   setInterval(dDay_print, 1000);
 }
 
+dDay_print();
 reroad();

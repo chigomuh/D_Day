@@ -2,8 +2,10 @@ body {
   background-image: url("bg2.gif");
   image-rendering: -webkit-optimize-contrast;
   transform: translateZ(0);
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   width: 100vh;
 }
 h1 {
